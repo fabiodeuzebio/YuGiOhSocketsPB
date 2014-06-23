@@ -1,0 +1,15 @@
+HA$PBExportHeader$p_yugioh_exe.srj
+$PBExportComments$Generated Application Executable Project
+EXE:yugioh.exe,,0,0,1
+CMP:0,0,0,2,0,0
+COM:Trabalho de Engenharia II
+DES:Sybase, Inc. Product File
+CPY:
+PRD:PowerBuilder Enterprise Series
+PVN:1,0,0,1
+PVS:1.0.0.1
+FVN:1,0,0,1
+FVS:1.0.0.1
+PBD:yugioh.pbl,,0
+
+ 
